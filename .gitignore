@@ -25,3 +25,6 @@ firebase-adminsdk*.json
 google-services.json
 secret*
 private*
+# Generated/cache files
+__pycache__/
+*.py[cod]
